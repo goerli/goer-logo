@@ -1,6 +1,6 @@
 ### Görli Testnet Logo
 
-![run-goerli](run-goerli-outlines.png)
+![run-goerli](assets/run-goerli-outlines.png)
 
 The Görli branding artwork was created by @Lililashka.
 
